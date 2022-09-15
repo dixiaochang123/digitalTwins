@@ -1,0 +1,36 @@
+{
+  "name": "digitalTwins",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@element-plus/icons-vue": "^1.1.4",
+    "@tweenjs/tween.js": "^18.6.4",
+    "axios": "^0.27.2",
+    "element-plus": "^2.1.4",
+    "qs": "^6.11.0",
+    "three": "^0.143.0",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.14",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "@types/three": "^0.143.0",
+    "@vitejs/plugin-vue": "^2.2.0",
+    "cesium": "^1.96.0",
+    "dat.gui": "^0.7.9",
+    "sass": "^1.49.9",
+    "sass-loader": "^12.6.0",
+    "typescript": "^4.5.4",
+    "video.js": "^7.20.2",
+    "vite": "^3.0.9",
+    "vite-plugin-cesium": "^1.2.22",
+    "vue-tsc": "^0.29.8"
+  }
+}
